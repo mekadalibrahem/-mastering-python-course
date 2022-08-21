@@ -1,4 +1,0 @@
-""" 
-035 - Assignment Operators 
-
-"""
